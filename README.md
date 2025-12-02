@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhant Singh</h1> <h3 align="center">B.Tech CSE (AI & ML) Student | Tech Enthusiast | Developer</h3> <img align="right" alt="coding" width="300" src="profile.jpg">
+<h1 align="center">Hi 👋, I'm Siddhant Singh</h1> <h3 align="center">B.Tech CSE (AI & ML) Student | Tech Enthusiast | Developer</h3> 
 🧑‍💻 About Me
 
 🎓 1st Year B.Tech CSE (AI & ML) student
